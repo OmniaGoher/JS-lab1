@@ -34,7 +34,6 @@ function readLine() {
 
 function countApplesAndOranges(s, t, a, b, apples, oranges) {
     // Write your code here
-    // Write your code here
     var orangesNumber = 0, appleNumber = 0;
     oranges = oranges.map(num => num + b);
     oranges.forEach(element => {
