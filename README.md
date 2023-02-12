@@ -1,5 +1,5 @@
 # JS-labs
 
-#lab 9
-Image Slider -> 
-Clock and Alarm -> 
+# lab 9
+- Image Slider -> 
+- Clock and Alarm -> 
